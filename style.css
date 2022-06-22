@@ -64,7 +64,7 @@ body {
     border-radius: 1px;
     padding: 10px 0;
     border: 1px solid rgba(var(--b6a,219,219,219),1);
-    border: 1px solid #b9b9b9e3;
+    border: 1px solid #d1cfcf80;
 }
 
 .group:nth-child(1) {
